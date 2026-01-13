@@ -17,7 +17,7 @@ The system extracts the video transcript, chunks it, stores embeddings, and uses
 
 ❌ Reduces hallucinations by grounding responses in video content
 
-## 🧠 How It Works (High Level)
+## 🧠 How It Works 
 
 User provides a YouTube video link
 
